@@ -11,8 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring.core.1" target="1.5" />
-      <module name="springcore1" target="1.5" />
+      <module name="spring.core.1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
